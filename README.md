@@ -1,8 +1,8 @@
 # 💫 About Me:
 <img align="center" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="coding" /> 
 - 🔭 A passionate Learner and Tech Enthusiast from India. I am currently pursuing my BTECH in CS from IIITL.<br>
-- 🌱 I’m currently learning <strong>Backend development</strong><br>
-- 💬 Ask me about <strong>javascript,react</strong><br>
+- 🌱 I’m currently learning <strong>Devops</strong><br>
+- 💬 Ask me about <strong>frontend and backend development</strong><br>
 - 📫 How to reach me <strong>akhilenderb9@gmail.com</strong><br>
 - ⚡ Fun fact <strong>I am very friendly</strong><br>
 
