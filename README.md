@@ -23,6 +23,10 @@
 
 <br>
 
+# 📛 HacktoberFest23 Badges:
+[![An image of @akhilenderbongirwar's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/akhilenderbongirwar)](https://holopin.io/@akhilenderbongirwar)
+
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=akhilender-bongirwar&theme=solarized-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=akhilender-bongirwar&theme=solarized-dark&hide_border=false)<br/>
